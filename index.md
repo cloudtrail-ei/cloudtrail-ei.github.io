@@ -12,6 +12,6 @@ credit
 
 web template by https://gtfobins.github.io
 
-Icon by Nadiinko https://www.freepik.com
+icon by Nadiinko https://www.freepik.com
 
 {% include bin_table.html %}

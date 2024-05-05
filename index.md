@@ -1,11 +1,11 @@
 ---
 layout: page
-title: GTFOBins
+title: cloudtrail event inventory (cloudtrail-ei)
 ---
 
 ![logo](/assets/logo.png){:.logo}
 
-cloudtrail-ei
+cloudtrail event inventory (cloudtrail-ei)
 cloudtrail-ei is an inventory of cloudtrail events for IR purposes.
 
 credit:

@@ -8,8 +8,10 @@ title: cloudtrail event inventory (cloudtrail-ei)
 cloudtrail event inventory (cloudtrail-ei)
 cloudtrail-ei is an inventory of cloudtrail events for IR purposes.
 
-credit:
-web template from https://gtfobins.github.io
-Icon by Nadiinko (www.freepik.com)
+credit
 
+web template by https://gtfobins.github.io
+
+Icon by Nadiinko https://www.freepik.com
+<hr>
 {% include bin_table.html %}

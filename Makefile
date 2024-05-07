@@ -10,5 +10,5 @@ bundle:
 	bundle install
 
 lint:
-	yamllint apilist/*.md
+	yamllint _apilist/*.md
 	scripts/validate-schema.py
